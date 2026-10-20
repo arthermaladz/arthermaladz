@@ -30,6 +30,15 @@ I'm always open to learning, collaborating, and connecting with people who share
 
 "Think beyond limits. Build with purpose. Innovate for impact." 🚀
 
+🌟 Areas of Interest
+
+![Digital Business](https://img.shields.io/badge/Digital%20Business-6C63FF?style=for-the-badge)
+![Web Development](https://img.shields.io/badge/Web%20Development-0D96F6?style=for-the-badge)
+![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-FF9800?style=for-the-badge)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-EA4AAA?style=for-the-badge)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-00A884?style=for-the-badge)
+![Innovation](https://img.shields.io/badge/Innovation-9B59B6?style=for-the-badge)
+
 <!--
 **arthermaladz/arthermaladz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
